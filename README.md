@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/gbmouraa/age_calculator)
+- Live Site URL: [](https://gbmouraa.github.io/age_calculator/)
 
 
 ### Built with
